@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Emulating The Effects of Climate Change with Deep Learning - ClimateBench-Plus
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Climate modeling has long been limited by the amount of resources needed to use legacy built Earth system models. As such, exploration into the many different and possible emission pathways have been relegated to one-dimensional impulse response or simple pattern scaling models, neither of which are capable of accounting for finer details when emulating the Shared Socioeconomic Pathways.This paper introduces ClimateBench-Plus, an advanced emulator that builds on the deep learning models established in  \cite{watson2022climatebench} by utilizing more advanced techniques and hybrid modeling to improve upon the capabilities of their predecessors. These models are capable of emulating the response of full complexity Earth system models to forcers using a fraction of the time and resources. Moreover, these models are not only more complex and advanced then simple pattern scaling models, but also capable of predicting annual mean global distributions of temperature, diurnal temperature range, and precipitation given the emissions and concentrations of carbon dioxide, methane, sulfur dioxide, and black carbon. We will compare ClimateBench-Plus with its predecessors on their accuracy, interpretability and robustness showcasing the potential of revolutionizing climate modeling with reduced computational demand.
